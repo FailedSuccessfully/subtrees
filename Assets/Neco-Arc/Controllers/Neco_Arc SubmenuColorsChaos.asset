@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Neco_Arc SubmenuColorsChaos
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Color 1
+    icon: {fileID: 2800000, guid: 18a6243981922a145a4752d7c4b909cf, type: 3}
+    type: 102
+    parameter:
+      name: ColorSwap
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Color 2
+    icon: {fileID: 2800000, guid: cb279b28199cf9f4bad14fa4642106bc, type: 3}
+    type: 102
+    parameter:
+      name: ColorSwap
+    value: 2
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Color 3
+    icon: {fileID: 2800000, guid: e29258247207a9048ab90e119707226a, type: 3}
+    type: 102
+    parameter:
+      name: ColorSwap
+    value: 3
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Color 4
+    icon: {fileID: 2800000, guid: 7119430414a847b4492fad062a02a279, type: 3}
+    type: 102
+    parameter:
+      name: ColorSwap
+    value: 4
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Color 5
+    icon: {fileID: 2800000, guid: 72b333abefacbb34293a54e39e345504, type: 3}
+    type: 102
+    parameter:
+      name: ColorSwap
+    value: 5
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Color 6
+    icon: {fileID: 2800000, guid: 6880f15db28780b4ca5c93b1a734acac, type: 3}
+    type: 102
+    parameter:
+      name: ColorSwap
+    value: 6
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Color 7
+    icon: {fileID: 2800000, guid: 367566efa07a9754f9f779ce47501e07, type: 3}
+    type: 102
+    parameter:
+      name: ColorSwap
+    value: 7
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Color 8
+    icon: {fileID: 2800000, guid: c7040b081cd77454eb26fa7167afcfba, type: 3}
+    type: 102
+    parameter:
+      name: ColorSwap
+    value: 8
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
