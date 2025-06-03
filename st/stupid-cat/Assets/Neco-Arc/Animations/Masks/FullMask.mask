@@ -1,0 +1,293 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FullMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Body
+    m_Weight: 1
+  - m_Path: Hands
+    m_Weight: 1
+  - m_Path: Head
+    m_Weight: 1
+  - m_Path: Props
+    m_Weight: 1
+  - m_Path: UnityArmature
+    m_Weight: 1
+  - m_Path: UnityArmature/hips
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/pants_helper.L
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/pants_helper.R
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/skirt_physics
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/skirt_physics/skirt_chain
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/skirt_physics/skirt_chain/skirt_chain.008
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/skirt_physics/skirt_chain.001
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/skirt_physics/skirt_chain.001/skirt_chain.009
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/skirt_physics/skirt_chain.002
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/skirt_physics/skirt_chain.002/skirt_chain.010
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/skirt_physics/skirt_chain.003
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/skirt_physics/skirt_chain.003/skirt_chain.011
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/skirt_physics/skirt_chain.004
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/skirt_physics/skirt_chain.004/skirt_chain.012
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/skirt_physics/skirt_chain.005
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/skirt_physics/skirt_chain.005/skirt_chain.013
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/skirt_physics/skirt_chain.006
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/skirt_physics/skirt_chain.006/skirt_chain.014
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/skirt_physics/skirt_chain.007
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/skirt_physics/skirt_chain.007/skirt_chain.015
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/ahoge_physics
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/ahoge_physics/ahoge_1
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/ahoge_physics/ahoge_1/ahoge_1.001
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/ahoge_physics/ahoge_1/ahoge_1.001/ahoge_1.002
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/ahoge_physics/ahoge_2
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/ahoge_physics/ahoge_2/ahoge_2.001
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/ahoge_physics/ahoge_2/ahoge_2.001/ahoge_2.002
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/ahoge_physics/ahoge_3
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/ahoge_physics/ahoge_3/ahoge_3.001
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/ahoge_physics/ahoge_3/ahoge_3.001/ahoge_3.002
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/ahoge_physics/ahoge_3/ahoge_3.001/ahoge_3.002/ahoge_3.003
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/ears_physics
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/ears_physics/ear.L
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/ears_physics/ear.L/ear.L.001
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/ears_physics/ear.R
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/ears_physics/ear.R/ear.R.001
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/eye_positioning.L
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/eye_positioning.R
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/flight_aim
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hair_physics
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hair_physics/hair_back
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hair_physics/hair_back/hair_back.001
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hair_physics/hair_back.L
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hair_physics/hair_back.L/hair_back.L.001
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hair_physics/hair_back.R
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hair_physics/hair_back.R/hair_back.R.001
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hair_physics/hair_back_1.L
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hair_physics/hair_back_1.R
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hair_physics/hair_back_2.L
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hair_physics/hair_back_2.R
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hair_physics/hair_back_3.L
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hair_physics/hair_back_3.L/hair_back_3.L.001
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hair_physics/hair_back_3.R
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hair_physics/hair_back_3.R/hair_back_3.R.001
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hair_physics/hair_back_4.L
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hair_physics/hair_back_4.L/hair_back_4.L.001
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hair_physics/hair_back_4.R
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hair_physics/hair_back_4.R/hair_back_4.R.001
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hair_physics/hair_back_5.L
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hair_physics/hair_back_5.L/hair_back_5.L.001
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hair_physics/hair_back_5.R
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hair_physics/hair_back_5.R/hair_back_5.R.001
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hairfront_physics
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hairfront_physics/hair_bangs
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hairfront_physics/hair_bangs/hair_bangs.001
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hairfront_physics/hair_bangs_1
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hairfront_physics/hair_bangs_1/hair_bangs_1.001
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hairfront_physics/hair_bangs_2
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hairfront_physics/hair_bangs_2/hair_bangs_2.001
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hairfront_physics/hair_bangs_3
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hairfront_physics/hair_bangs_3/hair_bangs_3.001
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hairfront_physics/hair_bangs_4
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hairfront_physics/hair_bangs_4/hair_bangs_4.001
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hairfront_physics/hair_bangs_5
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hairfront_physics/hair_bangs_5/hair_bangs_5.001
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/hat
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/mouth
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/neck/head/tongue
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/shoulder.L
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/shoulder.L/upper_arm.L
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index.01.L
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index.01.L/f_index.02.L
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index.01.L/f_index.02.L/f_index.03.L
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle.01.L
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle.01.L/f_middle.02.L
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle.01.L/f_middle.02.L/f_middle.03.L
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky.01.L
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky.01.L/f_pinky.02.L
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/thumb.01.L
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/thumb.01.L/thumb.02.L
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/thumb.01.L/thumb.02.L/thumb.03.L
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/shoulder.L/upper_arm.L/z_elbow.L
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/shoulder.R
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/shoulder.R/upper_arm.R
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index.01.R
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index.01.R/f_index.02.R
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index.01.R/f_index.02.R/f_index.03.R
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle.01.R
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle.01.R/f_middle.02.R
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky.01.R
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky.01.R/f_pinky.02.R
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/thumb.01.R
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/thumb.01.R/thumb.02.R
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/thumb.01.R/thumb.02.R/thumb.03.R
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/spine/chest/shoulder.R/upper_arm.R/z_elbow.R
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/tail
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/tail/tail.001
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/tail/tail.001/tail.002
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/tail/tail.001/tail.002/tail.003
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/tail/tail.001/tail.002/tail.003/tail.004
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/tail/tail.001/tail.002/tail.003/tail.004/tail.005
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/tail/tail.001/tail.002/tail.003/tail.004/tail.005/tail.006
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/tail/tail.001/tail.002/tail.003/tail.004/tail.005/tail.006/tail.007
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/tail/tail.001/tail.002/tail.003/tail.004/tail.005/tail.006/tail.007/tail.008
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/tail/tail.001/tail.002/tail.003/tail.004/tail.005/tail.006/tail.007/tail.008/tail.009
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/thigh.L
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/thigh.L/shin.L
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/thigh.L/shin.L/foot.L
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/thigh.L/shin.L/foot.L/toe.L
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/thigh.R
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/thigh.R/shin.R
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/thigh.R/shin.R/foot.R
+    m_Weight: 1
+  - m_Path: UnityArmature/hips/thigh.R/shin.R/foot.R/toe.R
+    m_Weight: 1
+  - m_Path: UnityArmature/props_cigare
+    m_Weight: 1

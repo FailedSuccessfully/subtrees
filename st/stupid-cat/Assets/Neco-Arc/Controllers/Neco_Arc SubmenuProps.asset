@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Neco_Arc SubmenuProps
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Hats
+    icon: {fileID: 2800000, guid: 37dc961e25374364eb961f28c0171fea, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 699610affa61bef40a0b0d29db99f721, type: 2}
+    subParameters: []
+    labels: []
+  - name: Costumes
+    icon: {fileID: 2800000, guid: e9f67dac954df28428e6c160ab68729b, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: faa50a10cf70d1842b772469eb1b50f1, type: 2}
+    subParameters: []
+    labels: []
+  - name: Pants
+    icon: {fileID: 2800000, guid: 2b9d8eefcc10ad14caa12154514dab22, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 1ef0e6d7c9770584e81bc4be92b19dfc, type: 2}
+    subParameters: []
+    labels: []
+  - name: Shoes
+    icon: {fileID: 2800000, guid: 5aa7be7a9eec42b42bf9969fb8ddb5ef, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: b42e3bebb0a49454bb517bd1fea6648e, type: 2}
+    subParameters: []
+    labels: []
+  - name: Cigarette
+    icon: {fileID: 2800000, guid: cc7b531fa4d903b498e2f64b7b53a46a, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: daeb3d36805bf824799275cf6645170c, type: 2}
+    subParameters: []
+    labels: []
+  - name: Train
+    icon: {fileID: 2800000, guid: 0d2258f67e55dd841986b54e69da6780, type: 3}
+    type: 102
+    parameter:
+      name: Prop_Train
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Phone
+    icon: {fileID: 2800000, guid: 37af70f6b8bf5364b93e7d8244bf01a7, type: 3}
+    type: 102
+    parameter:
+      name: Prop_Phone
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

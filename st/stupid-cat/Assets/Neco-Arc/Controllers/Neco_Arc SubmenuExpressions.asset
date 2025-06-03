@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Neco_Arc SubmenuExpressions
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Switch Sides
+    icon: {fileID: 2800000, guid: 8af51f6f915f3d44ab509704c8d40ccb, type: 3}
+    type: 102
+    parameter:
+      name: FaceSwitch
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Priority Right
+    icon: {fileID: 2800000, guid: bc18f92194a5b52478d6c853e71916fc, type: 3}
+    type: 102
+    parameter:
+      name: FacePriorityRight
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Only Right
+    icon: {fileID: 2800000, guid: 106f27e033f487e4f81e23069b912d1b, type: 3}
+    type: 102
+    parameter:
+      name: FaceOnlyRight
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Only Left
+    icon: {fileID: 2800000, guid: 125b7e48a4b2bfc40a29516317e3e239, type: 3}
+    type: 102
+    parameter:
+      name: FaceOnlyLeft
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Lock Emotes
+    icon: {fileID: 2800000, guid: 53ad9a59f22857445aa67ff86d7dda9d, type: 3}
+    type: 102
+    parameter:
+      name: FaceLock
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

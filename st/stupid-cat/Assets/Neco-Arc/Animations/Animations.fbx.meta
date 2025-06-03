@@ -1,0 +1,3004 @@
+fileFormatVersion: 2
+guid: de9489e145aa3ac46b4fcab4daf6ebf4
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -6368462933095960321
+    second: Tpose-baked
+  - first:
+      74: 8551735895488321971
+    second: Neco Dance-baked
+  - first:
+      74: -5541196709859357704
+    second: RunForward-baked
+  - first:
+      74: -7515534047909868966
+    second: Wave-baked
+  - first:
+      74: 5853721559545062005
+    second: SprintForward-baked
+  - first:
+      74: -1994790398178939769
+    second: Idle-baked
+  - first:
+      74: 1209790477226848769
+    second: IdleFrame-baked
+  - first:
+      74: 5338506576279483996
+    second: CrawlForward-baked
+  - first:
+      74: -2469614684451386713
+    second: CrawlForward_Right-baked
+  - first:
+      74: 2310505176958023034
+    second: CrawlForward_Right_45-baked
+  - first:
+      74: -384991178976419037
+    second: CrawlIdle-baked
+  - first:
+      74: 8836104758286657164
+    second: PreviewPose-baked
+  - first:
+      74: 4127815202906666820
+    second: RunBackward-baked
+  - first:
+      74: -3912391108601982793
+    second: RunBackward_Right45-baked
+  - first:
+      74: 3090037694758079859
+    second: RunBackward_45-baked
+  - first:
+      74: -1811110497365511279
+    second: Sit-baked
+  - first:
+      74: 333941293012538578
+    second: Sit-baked.001
+  - first:
+      74: -6492266856706527543
+    second: Sit-baked.001 (1)
+  - first:
+      74: -9033515323186527629
+    second: SitFrame-baked
+  - first:
+      74: 3583202642208395896
+    second: Walk_Forward-baked
+  - first:
+      74: 2595513535106794950
+    second: Walk_Forward45-baked
+  - first:
+      74: -145242447128888660
+    second: Walk_Right-baked
+  - first:
+      74: 5433046694373892765
+    second: Walk_Backward-baked
+  - first:
+      74: -8676820768016513871
+    second: Walk_Backward45-baked
+  - first:
+      74: 595153725424552640
+    second: Run_Forward-baked
+  - first:
+      74: 8123520022889444651
+    second: Run_Forward_45-baked
+  - first:
+      74: -947024556100320910
+    second: Run_Backward-baked
+  - first:
+      74: 3864781460717133935
+    second: Run_Backward_45-baked
+  - first:
+      74: -9021962595146414962
+    second: Sprint_Forward-baked
+  - first:
+      74: -9138962343104546982
+    second: Sprint_Forward_45-baked
+  - first:
+      74: 5056149938210259074
+    second: Crouch_Idle-baked
+  - first:
+      74: -8818713499905014116
+    second: Crouch_Forward-baked
+  - first:
+      74: -9169980064648578429
+    second: Crouch_Forward45-baked
+  - first:
+      74: -508512413950879675
+    second: Crouch_Right-baked
+  - first:
+      74: -3270994027778110470
+    second: Crawl_Idle-baked
+  - first:
+      74: 3511114878391117261
+    second: Crawl_Forward-baked
+  - first:
+      74: 93592520466255166
+    second: Crawl_Forward_45-baked
+  - first:
+      74: -6549334458466218611
+    second: Crawl_Right-baked
+  - first:
+      74: 8873213668954310109
+    second: SmallHop-baked
+  - first:
+      74: -8322676384256937771
+    second: ShortFall-baked
+  - first:
+      74: -5757775642836513095
+    second: LongFall-baked
+  - first:
+      74: 8024130540698050527
+    second: QuickLanding-baked
+  - first:
+      74: -7673505952440184321
+    second: HardLanding-baked
+  - first:
+      74: 900422550945573601
+    second: HardLanding-baked (1)
+  - first:
+      74: 8495382779571219770
+    second: Emote_Wave-baked
+  - first:
+      74: -5029688360280361618
+    second: Emote_Dead-baked
+  - first:
+      74: 5882907553068281269
+    second: Emote_Cheer-baked
+  - first:
+      74: 5129825863724934216
+    second: Emote_Point-baked
+  - first:
+      74: -4243287293819419223
+    second: Emote_Sadness-baked
+  - first:
+      74: -3548536612429461023
+    second: Emote_Applause-baked
+  - first:
+      74: -7139392090872201843
+    second: Emote_BurrowIn-baked
+  - first:
+      74: -6056957995345827127
+    second: Emote_BurrowOut-baked
+  - first:
+      74: 1243025666029242070
+    second: Emote_Balancing-baked
+  - first:
+      74: 3165020426924446957
+    second: Emote_NecoDance-baked
+  - first:
+      74: 8648157915624735763
+    second: Emote_PointLoop-baked
+  - first:
+      74: 4845075066247459174
+    second: Emote_SadnessLoop-baked
+  - first:
+      74: 2707675488272040044
+    second: Run_Strafe-baked
+  - first:
+      74: 2317562604461736059
+    second: Run_Strafe-baked_m
+  - first:
+      74: 214594433338616261
+    second: Crouch_Forward45-baked_m
+  - first:
+      74: 8776390976376589817
+    second: Crouch_Right-baked_m
+  - first:
+      74: -5509217949921259541
+    second: Crawl_Forward_45-baked_m
+  - first:
+      74: 1818428949791092878
+    second: Crawl_Right-baked_m
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Idle-baked' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'chest' has translation animation that will
+      be discarded.\n\t'neck' has translation animation that will be discarded.\n\nClip
+      'Walk_Forward-baked' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'shoulder.L'
+      has translation animation that will be discarded.\n\t'shoulder.R' has translation
+      animation that will be discarded.\n\t'shin.L' has translation animation that
+      will be discarded.\n\t'foot.L' has translation animation that will be discarded.\n\t'toe.L'
+      has translation animation that will be discarded.\n\t'shin.R' has translation
+      animation that will be discarded.\n\t'foot.R' has translation animation that
+      will be discarded.\n\t'toe.R' has translation animation that will be discarded.\n\nClip
+      'Walk_Forward45-baked' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'shoulder.L'
+      has translation animation that will be discarded.\n\t'shoulder.R' has translation
+      animation that will be discarded.\n\t'shin.L' has translation animation that
+      will be discarded.\n\t'foot.L' has translation animation that will be discarded.\n\t'toe.L'
+      has translation animation that will be discarded.\n\t'shin.R' has translation
+      animation that will be discarded.\n\t'foot.R' has translation animation that
+      will be discarded.\n\t'toe.R' has translation animation that will be discarded.\n\nClip
+      'Walk_Right-baked' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'shoulder.L'
+      has translation animation that will be discarded.\n\t'shoulder.R' has translation
+      animation that will be discarded.\n\t'shin.L' has translation animation that
+      will be discarded.\n\t'foot.L' has translation animation that will be discarded.\n\t'toe.L'
+      has translation animation that will be discarded.\n\t'shin.R' has translation
+      animation that will be discarded.\n\t'foot.R' has translation animation that
+      will be discarded.\n\t'toe.R' has translation animation that will be discarded.\n\nClip
+      'Walk_Backward-baked' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'chest'
+      has translation animation that will be discarded.\n\t'neck' has translation
+      animation that will be discarded.\n\t'shoulder.L' has translation animation
+      that will be discarded.\n\t'forearm.L' has translation animation that will
+      be discarded.\n\t'hand.L' has translation animation that will be discarded.\n\t'shoulder.R'
+      has translation animation that will be discarded.\n\t'forearm.R' has translation
+      animation that will be discarded.\n\t'hand.R' has translation animation that
+      will be discarded.\n\t'shin.L' has translation animation that will be discarded.\n\t'foot.L'
+      has translation animation that will be discarded.\n\t'toe.L' has translation
+      animation that will be discarded.\n\t'shin.R' has translation animation that
+      will be discarded.\n\t'foot.R' has translation animation that will be discarded.\n\t'toe.R'
+      has translation animation that will be discarded.\n\nClip 'Walk_Backward45-baked'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'chest'
+      has translation animation that will be discarded.\n\t'neck' has translation
+      animation that will be discarded.\n\t'shoulder.L' has translation animation
+      that will be discarded.\n\t'forearm.L' has translation animation that will
+      be discarded.\n\t'hand.L' has translation animation that will be discarded.\n\t'shoulder.R'
+      has translation animation that will be discarded.\n\t'forearm.R' has translation
+      animation that will be discarded.\n\t'hand.R' has translation animation that
+      will be discarded.\n\t'shin.L' has translation animation that will be discarded.\n\t'foot.L'
+      has translation animation that will be discarded.\n\t'toe.L' has translation
+      animation that will be discarded.\n\t'shin.R' has translation animation that
+      will be discarded.\n\t'foot.R' has translation animation that will be discarded.\n\t'toe.R'
+      has translation animation that will be discarded.\n\nClip 'Run_Backward-baked'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'shin.L'
+      has translation animation that will be discarded.\n\t'foot.L' has translation
+      animation that will be discarded.\n\t'toe.L' has translation animation that
+      will be discarded.\n\t'shin.R' has translation animation that will be discarded.\n\t'foot.R'
+      has translation animation that will be discarded.\n\t'toe.R' has translation
+      animation that will be discarded.\n\nClip 'Run_Backward_45-baked' has import
+      animation warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'shin.L' has translation animation
+      that will be discarded.\n\t'foot.L' has translation animation that will be
+      discarded.\n\t'toe.L' has translation animation that will be discarded.\n\t'shin.R'
+      has translation animation that will be discarded.\n\t'foot.R' has translation
+      animation that will be discarded.\n\t'toe.R' has translation animation that
+      will be discarded.\n\nClip 'Sprint_Forward-baked' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'head' has translation animation that will
+      be discarded.\n\t'shoulder.L' has translation animation that will be discarded.\n\t'shoulder.R'
+      has translation animation that will be discarded.\n\t'shin.L' has translation
+      animation that will be discarded.\n\t'foot.L' has translation animation that
+      will be discarded.\n\t'toe.L' has translation animation that will be discarded.\n\t'shin.R'
+      has translation animation that will be discarded.\n\t'foot.R' has translation
+      animation that will be discarded.\n\t'toe.R' has translation animation that
+      will be discarded.\n\nClip 'Crouch_Idle-baked' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'shoulder.L' has translation animation that
+      will be discarded.\n\t'forearm.L' has translation animation that will be discarded.\n\t'hand.L'
+      has translation animation that will be discarded.\n\t'shoulder.R' has translation
+      animation that will be discarded.\n\t'forearm.R' has translation animation
+      that will be discarded.\n\t'hand.R' has translation animation that will be
+      discarded.\n\t'shin.L' has translation animation that will be discarded.\n\t'foot.L'
+      has translation animation that will be discarded.\n\t'toe.L' has translation
+      animation that will be discarded.\n\t'shin.R' has translation animation that
+      will be discarded.\n\t'foot.R' has translation animation that will be discarded.\n\t'toe.R'
+      has translation animation that will be discarded.\n\nClip 'Crouch_Forward-baked'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'chest'
+      has translation animation that will be discarded.\n\t'head' has translation
+      animation that will be discarded.\n\t'shoulder.L' has translation animation
+      that will be discarded.\n\t'forearm.L' has translation animation that will
+      be discarded.\n\t'hand.L' has translation animation that will be discarded.\n\t'shoulder.R'
+      has translation animation that will be discarded.\n\t'forearm.R' has translation
+      animation that will be discarded.\n\t'hand.R' has translation animation that
+      will be discarded.\n\t'shin.L' has translation animation that will be discarded.\n\t'foot.L'
+      has translation animation that will be discarded.\n\t'toe.L' has translation
+      animation that will be discarded.\n\t'shin.R' has translation animation that
+      will be discarded.\n\t'foot.R' has translation animation that will be discarded.\n\t'toe.R'
+      has translation animation that will be discarded.\n\nClip 'Crouch_Forward45-baked'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'chest'
+      has translation animation that will be discarded.\n\t'head' has translation
+      animation that will be discarded.\n\t'shoulder.L' has translation animation
+      that will be discarded.\n\t'forearm.L' has translation animation that will
+      be discarded.\n\t'hand.L' has translation animation that will be discarded.\n\t'shoulder.R'
+      has translation animation that will be discarded.\n\t'forearm.R' has translation
+      animation that will be discarded.\n\t'hand.R' has translation animation that
+      will be discarded.\n\t'shin.L' has translation animation that will be discarded.\n\t'foot.L'
+      has translation animation that will be discarded.\n\t'toe.L' has translation
+      animation that will be discarded.\n\t'shin.R' has translation animation that
+      will be discarded.\n\t'foot.R' has translation animation that will be discarded.\n\t'toe.R'
+      has translation animation that will be discarded.\n\nClip 'Crouch_Forward45-baked_m'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'chest'
+      has translation animation that will be discarded.\n\t'head' has translation
+      animation that will be discarded.\n\t'shoulder.L' has translation animation
+      that will be discarded.\n\t'forearm.L' has translation animation that will
+      be discarded.\n\t'hand.L' has translation animation that will be discarded.\n\t'shoulder.R'
+      has translation animation that will be discarded.\n\t'forearm.R' has translation
+      animation that will be discarded.\n\t'hand.R' has translation animation that
+      will be discarded.\n\t'shin.L' has translation animation that will be discarded.\n\t'foot.L'
+      has translation animation that will be discarded.\n\t'toe.L' has translation
+      animation that will be discarded.\n\t'shin.R' has translation animation that
+      will be discarded.\n\t'foot.R' has translation animation that will be discarded.\n\t'toe.R'
+      has translation animation that will be discarded.\n\nClip 'Crouch_Right-baked'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'chest'
+      has translation animation that will be discarded.\n\t'neck' has translation
+      animation that will be discarded.\n\t'head' has translation animation that
+      will be discarded.\n\t'shoulder.L' has translation animation that will be discarded.\n\t'forearm.L'
+      has translation animation that will be discarded.\n\t'hand.L' has translation
+      animation that will be discarded.\n\t'shoulder.R' has translation animation
+      that will be discarded.\n\t'forearm.R' has translation animation that will
+      be discarded.\n\t'hand.R' has translation animation that will be discarded.\n\t'shin.R'
+      has translation animation that will be discarded.\n\t'foot.R' has translation
+      animation that will be discarded.\n\t'toe.R' has translation animation that
+      will be discarded.\n\nClip 'Crouch_Right-baked_m' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'chest' has translation animation that will
+      be discarded.\n\t'neck' has translation animation that will be discarded.\n\t'head'
+      has translation animation that will be discarded.\n\t'shoulder.L' has translation
+      animation that will be discarded.\n\t'forearm.L' has translation animation
+      that will be discarded.\n\t'hand.L' has translation animation that will be
+      discarded.\n\t'shoulder.R' has translation animation that will be discarded.\n\t'forearm.R'
+      has translation animation that will be discarded.\n\t'hand.R' has translation
+      animation that will be discarded.\n\t'shin.L' has translation animation that
+      will be discarded.\n\t'foot.L' has translation animation that will be discarded.\n\t'toe.L'
+      has translation animation that will be discarded.\n\nClip 'ShortFall-baked'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'spine'
+      has translation animation that will be discarded.\n\t'chest' has translation
+      animation that will be discarded.\n\t'neck' has translation animation that
+      will be discarded.\n\t'shoulder.L' has translation animation that will be discarded.\n\t'shoulder.R'
+      has translation animation that will be discarded.\n\t'shin.L' has translation
+      animation that will be discarded.\n\t'shin.R' has translation animation that
+      will be discarded.\n\nClip 'LongFall-baked' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'spine' has translation animation that will
+      be discarded.\n\t'chest' has translation animation that will be discarded.\n\t'neck'
+      has translation animation that will be discarded.\n\t'shoulder.L' has translation
+      animation that will be discarded.\n\t'shoulder.R' has translation animation
+      that will be discarded.\n\t'thigh.L' has translation animation that will be
+      discarded.\n\t'shin.L' has translation animation that will be discarded.\n\t'thigh.R'
+      has translation animation that will be discarded.\n\t'shin.R' has translation
+      animation that will be discarded.\n\nClip 'QuickLanding-baked' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'shin.L' has translation animation
+      that will be discarded.\n\t'foot.L' has translation animation that will be
+      discarded.\n\t'toe.L' has translation animation that will be discarded.\n\t'shin.R'
+      has translation animation that will be discarded.\n\t'foot.R' has translation
+      animation that will be discarded.\n\t'toe.R' has translation animation that
+      will be discarded.\n\nClip 'HardLanding-baked' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'spine' has translation animation that will
+      be discarded.\n\t'chest' has translation animation that will be discarded.\n\t'neck'
+      has translation animation that will be discarded.\n\t'shoulder.L' has translation
+      animation that will be discarded.\n\t'forearm.L' has translation animation
+      that will be discarded.\n\t'hand.L' has translation animation that will be
+      discarded.\n\t'shoulder.R' has translation animation that will be discarded.\n\t'forearm.R'
+      has translation animation that will be discarded.\n\t'hand.R' has translation
+      animation that will be discarded.\n\t'thigh.L' has translation animation that
+      will be discarded.\n\t'shin.L' has translation animation that will be discarded.\n\t'foot.L'
+      has translation animation that will be discarded.\n\t'toe.L' has translation
+      animation that will be discarded.\n\t'thigh.R' has translation animation that
+      will be discarded.\n\t'shin.R' has translation animation that will be discarded.\n\t'foot.R'
+      has translation animation that will be discarded.\n\t'toe.R' has translation
+      animation that will be discarded.\n\nClip 'Emote_Wave-baked' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'chest' has translation animation
+      that will be discarded.\n\t'neck' has translation animation that will be discarded.\n\t'shoulder.L'
+      has translation animation that will be discarded.\n\t'hand.L' has translation
+      animation that will be discarded.\n\t'shoulder.R' has translation animation
+      that will be discarded.\n\t'forearm.R' has translation animation that will
+      be discarded.\n\t'hand.R' has translation animation that will be discarded.\n\t'shin.L'
+      has translation animation that will be discarded.\n\t'foot.L' has translation
+      animation that will be discarded.\n\t'toe.L' has translation animation that
+      will be discarded.\n\t'shin.R' has translation animation that will be discarded.\n\t'foot.R'
+      has translation animation that will be discarded.\n\t'toe.R' has translation
+      animation that will be discarded.\n\nClip 'Emote_Dead-baked' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'spine' has translation animation
+      that will be discarded.\n\t'chest' has translation animation that will be discarded.\n\t'neck'
+      has translation animation that will be discarded.\n\t'shoulder.L' has translation
+      animation that will be discarded.\n\t'forearm.L' has translation animation
+      that will be discarded.\n\t'hand.L' has translation animation that will be
+      discarded.\n\t'shoulder.R' has translation animation that will be discarded.\n\t'upper_arm.R'
+      has translation animation that will be discarded.\n\t'forearm.R' has translation
+      animation that will be discarded.\n\t'hand.R' has translation animation that
+      will be discarded.\n\t'shin.L' has translation animation that will be discarded.\n\t'foot.L'
+      has translation animation that will be discarded.\n\t'toe.L' has translation
+      animation that will be discarded.\n\t'shin.R' has translation animation that
+      will be discarded.\n\t'foot.R' has translation animation that will be discarded.\n\t'toe.R'
+      has translation animation that will be discarded.\n\nClip 'Emote_Point-baked'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'chest'
+      has translation animation that will be discarded.\n\t'neck' has translation
+      animation that will be discarded.\n\t'head' has translation animation that
+      will be discarded.\n\t'shoulder.L' has translation animation that will be discarded.\n\t'forearm.L'
+      has translation animation that will be discarded.\n\t'hand.L' has translation
+      animation that will be discarded.\n\t'shoulder.R' has translation animation
+      that will be discarded.\n\t'forearm.R' has translation animation that will
+      be discarded.\n\t'hand.R' has translation animation that will be discarded.\n\t'f_index.01.R'
+      has translation animation that will be discarded.\n\t'f_middle.01.R' has translation
+      animation that will be discarded.\n\t'thumb.01.R' has translation animation
+      that will be discarded.\n\t'shin.L' has translation animation that will be
+      discarded.\n\t'foot.L' has translation animation that will be discarded.\n\t'toe.L'
+      has translation animation that will be discarded.\n\t'shin.R' has translation
+      animation that will be discarded.\n\t'foot.R' has translation animation that
+      will be discarded.\n\t'toe.R' has translation animation that will be discarded.\n\nClip
+      'Emote_PointLoop-baked' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'chest'
+      has translation animation that will be discarded.\n\t'neck' has translation
+      animation that will be discarded.\n\t'head' has translation animation that
+      will be discarded.\n\t'shoulder.L' has translation animation that will be discarded.\n\t'shoulder.R'
+      has translation animation that will be discarded.\n\t'shin.L' has translation
+      animation that will be discarded.\n\t'foot.L' has translation animation that
+      will be discarded.\n\t'shin.R' has translation animation that will be discarded.\n\t'foot.R'
+      has translation animation that will be discarded.\n\nClip 'Emote_BurrowIn-baked'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'spine'
+      has translation animation that will be discarded.\n\t'chest' has translation
+      animation that will be discarded.\n\t'neck' has translation animation that
+      will be discarded.\n\t'head' has translation animation that will be discarded.\n\t'shoulder.L'
+      has translation animation that will be discarded.\n\t'forearm.L' has translation
+      animation that will be discarded.\n\t'hand.L' has translation animation that
+      will be discarded.\n\t'shoulder.R' has translation animation that will be discarded.\n\t'forearm.R'
+      has translation animation that will be discarded.\n\t'hand.R' has translation
+      animation that will be discarded.\n\t'thigh.L' has translation animation that
+      will be discarded.\n\t'shin.L' has translation animation that will be discarded.\n\t'foot.L'
+      has translation animation that will be discarded.\n\t'toe.L' has translation
+      animation that will be discarded.\n\t'thigh.R' has translation animation that
+      will be discarded.\n\t'shin.R' has translation animation that will be discarded.\n\t'foot.R'
+      has translation animation that will be discarded.\n\t'toe.R' has translation
+      animation that will be discarded.\n\nClip 'Emote_BurrowOut-baked' has import
+      animation warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'head' has translation animation
+      that will be discarded.\n\t'shin.L' has translation animation that will be
+      discarded.\n\t'foot.L' has translation animation that will be discarded.\n\t'shin.R'
+      has translation animation that will be discarded.\n\t'foot.R' has translation
+      animation that will be discarded.\n\t'toe.R' has translation animation that
+      will be discarded.\n\nClip 'Emote_Balancing-baked' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'shoulder.L' has translation animation that
+      will be discarded.\n\t'shoulder.R' has translation animation that will be discarded.\n\t'shin.R'
+      has translation animation that will be discarded.\n\t'foot.R' has translation
+      animation that will be discarded.\n\t'toe.R' has translation animation that
+      will be discarded.\n\nClip 'Emote_NecoDance-baked' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'spine' has translation animation that will
+      be discarded.\n\t'chest' has translation animation that will be discarded.\n\t'neck'
+      has translation animation that will be discarded.\n\t'head' has translation
+      animation that will be discarded.\n\t'shoulder.L' has translation animation
+      that will be discarded.\n\t'forearm.L' has translation animation that will
+      be discarded.\n\t'hand.L' has translation animation that will be discarded.\n\t'shoulder.R'
+      has translation animation that will be discarded.\n\t'upper_arm.R' has translation
+      animation that will be discarded.\n\t'forearm.R' has translation animation
+      that will be discarded.\n\t'hand.R' has translation animation that will be
+      discarded.\n\t'thigh.L' has translation animation that will be discarded.\n\t'shin.L'
+      has translation animation that will be discarded.\n\t'foot.L' has translation
+      animation that will be discarded.\n\t'toe.L' has translation animation that
+      will be discarded.\n\t'thigh.R' has translation animation that will be discarded.\n\t'shin.R'
+      has translation animation that will be discarded.\n\t'foot.R' has translation
+      animation that will be discarded.\n\t'toe.R' has translation animation that
+      will be discarded.\n\nClip 'Emote_Cheer-baked' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'forearm.L' has translation animation that
+      will be discarded.\n\t'hand.L' has translation animation that will be discarded.\n\t'forearm.R'
+      has translation animation that will be discarded.\n\t'hand.R' has translation
+      animation that will be discarded.\n\t'shin.L' has translation animation that
+      will be discarded.\n\t'foot.L' has translation animation that will be discarded.\n\t'toe.L'
+      has translation animation that will be discarded.\n\t'shin.R' has translation
+      animation that will be discarded.\n\t'foot.R' has translation animation that
+      will be discarded.\n\t'toe.R' has translation animation that will be discarded.\n\nClip
+      'Crawl_Idle-baked' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'chest'
+      has translation animation that will be discarded.\n\t'neck' has translation
+      animation that will be discarded.\n\t'shoulder.L' has translation animation
+      that will be discarded.\n\t'forearm.L' has translation animation that will
+      be discarded.\n\t'hand.L' has translation animation that will be discarded.\n\t'shoulder.R'
+      has translation animation that will be discarded.\n\t'forearm.R' has translation
+      animation that will be discarded.\n\t'hand.R' has translation animation that
+      will be discarded.\n\t'shin.L' has translation animation that will be discarded.\n\t'foot.L'
+      has translation animation that will be discarded.\n\t'foot.R' has translation
+      animation that will be discarded.\n\nClip 'Crawl_Forward-baked' has import
+      animation warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'chest' has translation animation
+      that will be discarded.\n\t'neck' has translation animation that will be discarded.\n\t'head'
+      has translation animation that will be discarded.\n\t'shoulder.L' has translation
+      animation that will be discarded.\n\t'forearm.L' has translation animation
+      that will be discarded.\n\t'hand.L' has translation animation that will be
+      discarded.\n\t'shoulder.R' has translation animation that will be discarded.\n\t'forearm.R'
+      has translation animation that will be discarded.\n\t'hand.R' has translation
+      animation that will be discarded.\n\t'shin.L' has translation animation that
+      will be discarded.\n\t'foot.L' has translation animation that will be discarded.\n\t'toe.L'
+      has translation animation that will be discarded.\n\t'shin.R' has translation
+      animation that will be discarded.\n\t'foot.R' has translation animation that
+      will be discarded.\n\t'toe.R' has translation animation that will be discarded.\n\nClip
+      'Crawl_Forward_45-baked' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'chest'
+      has translation animation that will be discarded.\n\t'neck' has translation
+      animation that will be discarded.\n\t'head' has translation animation that
+      will be discarded.\n\t'shoulder.L' has translation animation that will be discarded.\n\t'forearm.L'
+      has translation animation that will be discarded.\n\t'hand.L' has translation
+      animation that will be discarded.\n\t'shoulder.R' has translation animation
+      that will be discarded.\n\t'forearm.R' has translation animation that will
+      be discarded.\n\t'hand.R' has translation animation that will be discarded.\n\t'shin.L'
+      has translation animation that will be discarded.\n\t'foot.L' has translation
+      animation that will be discarded.\n\t'toe.L' has translation animation that
+      will be discarded.\n\t'shin.R' has translation animation that will be discarded.\n\t'foot.R'
+      has translation animation that will be discarded.\n\t'toe.R' has translation
+      animation that will be discarded.\n\nClip 'Crawl_Forward_45-baked_m' has import
+      animation warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'chest' has translation animation
+      that will be discarded.\n\t'neck' has translation animation that will be discarded.\n\t'head'
+      has translation animation that will be discarded.\n\t'shoulder.L' has translation
+      animation that will be discarded.\n\t'forearm.L' has translation animation
+      that will be discarded.\n\t'hand.L' has translation animation that will be
+      discarded.\n\t'shoulder.R' has translation animation that will be discarded.\n\t'forearm.R'
+      has translation animation that will be discarded.\n\t'hand.R' has translation
+      animation that will be discarded.\n\t'shin.L' has translation animation that
+      will be discarded.\n\t'foot.L' has translation animation that will be discarded.\n\t'toe.L'
+      has translation animation that will be discarded.\n\t'shin.R' has translation
+      animation that will be discarded.\n\t'foot.R' has translation animation that
+      will be discarded.\n\t'toe.R' has translation animation that will be discarded.\n\nClip
+      'Crawl_Right-baked' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'chest'
+      has translation animation that will be discarded.\n\t'neck' has translation
+      animation that will be discarded.\n\t'head' has translation animation that
+      will be discarded.\n\t'shoulder.L' has translation animation that will be discarded.\n\t'forearm.L'
+      has translation animation that will be discarded.\n\t'hand.L' has translation
+      animation that will be discarded.\n\t'shoulder.R' has translation animation
+      that will be discarded.\n\t'forearm.R' has translation animation that will
+      be discarded.\n\t'hand.R' has translation animation that will be discarded.\n\t'shin.L'
+      has translation animation that will be discarded.\n\t'foot.L' has translation
+      animation that will be discarded.\n\t'toe.L' has translation animation that
+      will be discarded.\n\t'shin.R' has translation animation that will be discarded.\n\t'foot.R'
+      has translation animation that will be discarded.\n\nClip 'Crawl_Right-baked_m'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'chest'
+      has translation animation that will be discarded.\n\t'neck' has translation
+      animation that will be discarded.\n\t'head' has translation animation that
+      will be discarded.\n\t'shoulder.L' has translation animation that will be discarded.\n\t'forearm.L'
+      has translation animation that will be discarded.\n\t'hand.L' has translation
+      animation that will be discarded.\n\t'shoulder.R' has translation animation
+      that will be discarded.\n\t'forearm.R' has translation animation that will
+      be discarded.\n\t'hand.R' has translation animation that will be discarded.\n\t'shin.L'
+      has translation animation that will be discarded.\n\t'foot.L' has translation
+      animation that will be discarded.\n\t'shin.R' has translation animation that
+      will be discarded.\n\t'foot.R' has translation animation that will be discarded.\n\t'toe.R'
+      has translation animation that will be discarded.\n\nClip 'Run_Forward-baked'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'neck'
+      has translation animation that will be discarded.\n\t'shoulder.L' has translation
+      animation that will be discarded.\n\t'shoulder.R' has translation animation
+      that will be discarded.\n\t'shin.L' has translation animation that will be
+      discarded.\n\t'foot.L' has translation animation that will be discarded.\n\t'toe.L'
+      has translation animation that will be discarded.\n\t'shin.R' has translation
+      animation that will be discarded.\n\t'foot.R' has translation animation that
+      will be discarded.\n\t'toe.R' has translation animation that will be discarded.\n\nClip
+      'Run_Forward_45-baked' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'neck'
+      has translation animation that will be discarded.\n\t'shoulder.L' has translation
+      animation that will be discarded.\n\t'shoulder.R' has translation animation
+      that will be discarded.\n\t'shin.L' has translation animation that will be
+      discarded.\n\t'foot.L' has translation animation that will be discarded.\n\t'toe.L'
+      has translation animation that will be discarded.\n\t'shin.R' has translation
+      animation that will be discarded.\n\t'foot.R' has translation animation that
+      will be discarded.\n\t'toe.R' has translation animation that will be discarded.\n\nClip
+      'Run_Strafe-baked' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'chest'
+      has translation animation that will be discarded.\n\t'neck' has translation
+      animation that will be discarded.\n\t'shoulder.L' has translation animation
+      that will be discarded.\n\t'forearm.L' has translation animation that will
+      be discarded.\n\t'hand.L' has translation animation that will be discarded.\n\t'shoulder.R'
+      has translation animation that will be discarded.\n\t'forearm.R' has translation
+      animation that will be discarded.\n\t'hand.R' has translation animation that
+      will be discarded.\n\t'shin.L' has translation animation that will be discarded.\n\t'foot.L'
+      has translation animation that will be discarded.\n\t'toe.L' has translation
+      animation that will be discarded.\n\t'shin.R' has translation animation that
+      will be discarded.\n\t'foot.R' has translation animation that will be discarded.\n\t'toe.R'
+      has translation animation that will be discarded.\n\nClip 'Run_Strafe-baked_m'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'chest'
+      has translation animation that will be discarded.\n\t'neck' has translation
+      animation that will be discarded.\n\t'shoulder.L' has translation animation
+      that will be discarded.\n\t'forearm.L' has translation animation that will
+      be discarded.\n\t'hand.L' has translation animation that will be discarded.\n\t'shoulder.R'
+      has translation animation that will be discarded.\n\t'forearm.R' has translation
+      animation that will be discarded.\n\t'hand.R' has translation animation that
+      will be discarded.\n\t'shin.L' has translation animation that will be discarded.\n\t'foot.L'
+      has translation animation that will be discarded.\n\t'toe.L' has translation
+      animation that will be discarded.\n\t'shin.R' has translation animation that
+      will be discarded.\n\t'foot.R' has translation animation that will be discarded.\n\t'toe.R'
+      has translation animation that will be discarded.\n\nClip 'Emote_Applause-baked'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'chest'
+      has translation animation that will be discarded.\n\t'neck' has translation
+      animation that will be discarded.\n\t'shoulder.L' has translation animation
+      that will be discarded.\n\t'forearm.L' has translation animation that will
+      be discarded.\n\t'hand.L' has translation animation that will be discarded.\n\t'shoulder.R'
+      has translation animation that will be discarded.\n\t'forearm.R' has translation
+      animation that will be discarded.\n\t'hand.R' has translation animation that
+      will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.35
+    animationPositionError: 0.35
+    animationScaleError: 0.35
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Tpose-baked
+      takeName: Tpose-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle-baked
+      takeName: Idle-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 151
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: IdleFrame-baked
+      takeName: IdleFrame-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sit-baked
+      takeName: Sit-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SitFrame-baked
+      takeName: SitFrame-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk_Forward-baked
+      takeName: Walk_Forward-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk_Forward45-baked
+      takeName: Walk_Forward45-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk_Right-baked
+      takeName: Walk_Right-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk_Backward-baked
+      takeName: Walk_Backward-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 67
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk_Backward45-baked
+      takeName: Walk_Backward45-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 67
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run_Forward-baked
+      takeName: Run_Forward-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run_Forward_45-baked
+      takeName: Run_Forward_45-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run_Backward-baked
+      takeName: Run_Backward-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run_Backward_45-baked
+      takeName: Run_Backward_45-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sprint_Forward-baked
+      takeName: Sprint_Forward-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Crouch_Idle-baked
+      takeName: Crouch_Idle-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 72
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Crouch_Forward-baked
+      takeName: Crouch_Forward-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Crouch_Forward45-baked
+      takeName: Crouch_Forward45-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Crouch_Right-baked
+      takeName: Crouch_Right-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Crawl_Idle-baked
+      takeName: Crawl_Idle-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 179
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Crawl_Forward-baked
+      takeName: Crawl_Forward-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 67
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Crawl_Forward_45-baked
+      takeName: Crawl_Forward_45-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 67
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Crawl_Right-baked
+      takeName: Crawl_Right-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 67
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmallHop-baked
+      takeName: SmallHop-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ShortFall-baked
+      takeName: ShortFall-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: LongFall-baked
+      takeName: LongFall-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: QuickLanding-baked
+      takeName: QuickLanding-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HardLanding-baked
+      takeName: HardLanding-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Emote_Wave-baked
+      takeName: Emote_Wave-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 161
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Emote_Dead-baked
+      takeName: Emote_Dead-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 274
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Emote_Cheer-baked
+      takeName: Emote_Cheer-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Emote_Point-baked
+      takeName: Emote_Point-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 151
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 100
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Emote_Applause-baked
+      takeName: Emote_Applause-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Emote_BurrowIn-baked
+      takeName: Emote_BurrowIn-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 115
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Emote_BurrowOut-baked
+      takeName: Emote_BurrowOut-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 89
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Emote_Balancing-baked
+      takeName: Emote_Balancing-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Emote_NecoDance-baked
+      takeName: Emote_NecoDance-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 53
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Emote_PointLoop-baked
+      takeName: Emote_PointLoop-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 105
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run_Strafe-baked
+      takeName: Run_Strafe-baked
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0.5
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run_Strafe-baked_m
+      takeName: Run_Strafe-baked_m
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0.5
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Crouch_Forward45-baked_m
+      takeName: Crouch_Forward45-baked_m
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Crouch_Right-baked_m
+      takeName: Crouch_Right-baked_m
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Crawl_Forward_45-baked_m
+      takeName: Crawl_Forward_45-baked_m
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 67
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Crawl_Right-baked_m
+      takeName: Crawl_Right-baked_m
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 67
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 1
+    maxBonesPerVertex: 5
+    minBoneWeight: 0.001
+    meshOptimizationFlags: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 2
+    tangentImportMode: 2
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 2
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thigh.L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thigh.R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shin.L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shin.R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: foot.L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: foot.R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chest
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shoulder.L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shoulder.R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: upper_arm.L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: upper_arm.R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: forearm.L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: forearm.R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hand.L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hand.R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: toe.L
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: toe.R
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thumb.01.L
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thumb.02.L
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thumb.03.L
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_index.01.L
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_index.02.L
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_index.03.L
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_middle.01.L
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_middle.02.L
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_middle.03.L
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_pinky.01.L
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_pinky.02.L
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_pinky.03.L
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thumb.01.R
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thumb.02.R
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thumb.03.R
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_index.01.R
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_index.02.R
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_index.03.R
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_middle.01.R
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_middle.02.R
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_middle.03.R
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_pinky.01.R
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_pinky.02.R
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: f_pinky.03.R
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Animations(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: UnityArmature
+      parentName: Animations(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hips
+      parentName: UnityArmature
+      position: {x: -0.000000010322764, y: 0.012899771, z: 0.16095494}
+      rotation: {x: 0.7071068, y: -2.3106046e-14, z: -1.4576182e-14, w: 0.7071067}
+      scale: {x: 0.99999964, y: 1, z: 0.99999994}
+    - name: spine
+      parentName: hips
+      position: {x: 3.6066887e-15, y: 0.034399763, z: 8.5657703e-10}
+      rotation: {x: -0.00000023841858, y: -0.000000013722691, z: -0.00000013293206,
+        w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: chest
+      parentName: spine
+      position: {x: 6.3005263e-15, y: 0.038827218, z: -0.0000000020393998}
+      rotation: {x: 0.00000029802322, y: 0.00000013292916, z: 0.00000013292919, w: 1}
+      scale: {x: 0.9999997, y: 1, z: 1}
+    - name: neck
+      parentName: chest
+      position: {x: -4.3533428e-16, y: 0.062012628, z: 0.0000000023013174}
+      rotation: {x: 3.4707824e-18, y: -0.0000002384419, z: -2.327968e-11, w: 1}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000002}
+    - name: head
+      parentName: neck
+      position: {x: 1.5048726e-16, y: 0.018675894, z: 5.536487e-10}
+      rotation: {x: -1.7748322e-15, y: 0.0000002384836, z: 6.517895e-11, w: 1}
+      scale: {x: 0.99999994, y: 0.9999998, z: 1.0000004}
+    - name: eye_positioning.L
+      parentName: head
+      position: {x: 0.120436914, y: 0.09109332, z: -0.35765785}
+      rotation: {x: -3.492469e-10, y: -0.00000008898899, z: -1.1641538e-10, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.9999998}
+    - name: eye_positioning.R
+      parentName: head
+      position: {x: -0.12043671, y: 0.09109314, z: -0.35765785}
+      rotation: {x: -1.1641887e-10, y: -0.00000011971923, z: -2.328307e-10, w: 1}
+      scale: {x: 1, y: 0.99999976, z: 0.9999998}
+    - name: hair_physics
+      parentName: head
+      position: {x: 1.9081958e-16, y: 0.21868953, z: -6.2365046e-10}
+      rotation: {x: -8.835275e-16, y: -3.8820502e-11, z: -3.8985044e-11, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: hair_bangs
+      parentName: hair_physics
+      position: {x: -0.021631802, y: -0.014221486, z: 0.097986214}
+      rotation: {x: -0.05416076, y: 0.09324096, z: 0.99375904, w: 0.028562216}
+      scale: {x: 1.0000011, y: 1.0000011, z: 1.0000037}
+    - name: hair_bangs.001
+      parentName: hair_bangs
+      position: {x: 0.0000000027939677, y: 0.054015413, z: -0.0000000027939677}
+      rotation: {x: -0.1375549, y: -0.0019767883, z: 0.014376123, w: 0.99038786}
+      scale: {x: 1.0000005, y: 0.9999997, z: 1.000001}
+    - name: hair_bangs_1
+      parentName: hair_physics
+      position: {x: 0.018637646, y: -0.014479097, z: 0.099971615}
+      rotation: {x: 0.025605477, y: 0.07215374, z: 0.99644, w: -0.03529179}
+      scale: {x: 1.0000002, y: 0.999999, z: 1.000002}
+    - name: hair_bangs_1.001
+      parentName: hair_bangs_1
+      position: {x: 4.656613e-10, y: 0.056345027, z: -0.0000000019790605}
+      rotation: {x: -0.10009752, y: -0.007325822, z: 0.06907596, w: 0.99254996}
+      scale: {x: 0.9999987, y: 0.99999875, z: 0.99999905}
+    - name: hair_bangs_2
+      parentName: hair_physics
+      position: {x: -0.060133237, y: -0.013830003, z: 0.07896417}
+      rotation: {x: -0.17550445, y: 0.1575878, z: 0.96490526, w: 0.11542121}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000006}
+    - name: hair_bangs_2.001
+      parentName: hair_bangs_2
+      position: {x: 0.000000011175871, y: 0.050609857, z: 0.000000035390258}
+      rotation: {x: -0.15447971, y: 0.023057213, z: -0.04718187, w: 0.9865993}
+      scale: {x: 0.99999964, y: 0.9999999, z: 0.99999994}
+    - name: hair_bangs_3
+      parentName: hair_physics
+      position: {x: -0.08884836, y: -0.013454912, z: 0.05474232}
+      rotation: {x: -0.37809327, y: 0.1555029, z: 0.9010966, w: 0.14453124}
+      scale: {x: 0.9999999, y: 1, z: 0.99999964}
+    - name: hair_bangs_3.001
+      parentName: hair_bangs_3
+      position: {x: 0.0000000037252903, y: 0.050355844, z: -0.000000007450581}
+      rotation: {x: -0.086777285, y: 0.0063462034, z: -0.07334731, w: 0.99350375}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: hair_bangs_5
+      parentName: hair_physics
+      position: {x: 0.08884834, y: -0.013454912, z: 0.05474233}
+      rotation: {x: 0.3842611, y: 0.15648998, z: 0.8984837, w: -0.14346197}
+      scale: {x: 1, y: 1.0000002, z: 0.99999994}
+    - name: hair_bangs_5.001
+      parentName: hair_bangs_5
+      position: {x: 0.000000014901161, y: 0.050355855, z: -0.000000011175871}
+      rotation: {x: -0.085710615, y: -0.0070510227, z: 0.07459077, w: 0.993499}
+      scale: {x: 1.0000001, y: 1.0000004, z: 0.99999994}
+    - name: hair_bangs_4
+      parentName: hair_physics
+      position: {x: 0.060224645, y: -0.014133808, z: 0.079060875}
+      rotation: {x: 0.1896161, y: 0.14423709, z: 0.9653465, w: -0.10652469}
+      scale: {x: 0.99999976, y: 0.99999994, z: 1.000001}
+    - name: hair_bangs_4.001
+      parentName: hair_bangs_4
+      position: {x: 0.0000000037252903, y: 0.055628955, z: 0.0000000018626451}
+      rotation: {x: -0.16382295, y: 0.010937842, z: 0.083481856, w: 0.98289025}
+      scale: {x: 0.9999998, y: 1.0000002, z: 1.0000004}
+    - name: hair_back.L
+      parentName: hair_physics
+      position: {x: -0.11739668, y: -0.09851265, z: 0.021505732}
+      rotation: {x: -0.5816572, y: 0.015342889, z: 0.81222194, w: 0.041653927}
+      scale: {x: 1.000014, y: 1.0000001, z: 1.0000008}
+    - name: hair_back.L.001
+      parentName: hair_back.L
+      position: {x: -9.313226e-10, y: 0.07416219, z: -0.000000013737008}
+      rotation: {x: -0.029012272, y: 0.03778655, z: -0.019269409, w: 0.99867874}
+      scale: {x: 0.9999996, y: 0.9999997, z: 0.99999934}
+    - name: hair_back_1.L
+      parentName: hair_physics
+      position: {x: -0.1609436, y: -0.14615604, z: -0.016975062}
+      rotation: {x: 0.69491315, y: -0.06439436, z: -0.6943452, w: -0.17559573}
+      scale: {x: 1.0000006, y: 0.9999996, z: 0.9999997}
+    - name: hair_back_2.L
+      parentName: hair_physics
+      position: {x: -0.166648, y: -0.12241739, z: -0.046952195}
+      rotation: {x: 0.74815446, y: -0.2036224, z: -0.5178457, w: -0.36143985}
+      scale: {x: 1.0000006, y: 1.0000001, z: 0.9999997}
+    - name: hair_back_3.L
+      parentName: hair_physics
+      position: {x: -0.13522094, y: -0.15659153, z: -0.05005479}
+      rotation: {x: 0.84564567, y: 0.06489468, z: -0.5065385, w: 0.15521207}
+      scale: {x: 1.000001, y: 0.9999998, z: 1.0000001}
+    - name: hair_back_3.L.001
+      parentName: hair_back_3.L
+      position: {x: -0.000000013038516, y: 0.04991677, z: -0.0000000027939677}
+      rotation: {x: -0.15995434, y: 0.00000023138618, z: 0.0000002481327, w: 0.98712444}
+      scale: {x: 0.99999976, y: 1.0000005, z: 1}
+    - name: hair_back_4.L
+      parentName: hair_physics
+      position: {x: -0.11583284, y: -0.15314952, z: -0.10706563}
+      rotation: {x: 0.89568275, y: 0.08118904, z: -0.39253604, w: 0.19255179}
+      scale: {x: 0.9999988, y: 0.99999934, z: 0.99999934}
+    - name: hair_back_4.L.001
+      parentName: hair_back_4.L
+      position: {x: -6.9849193e-10, y: 0.05882266, z: -0.0000000027939677}
+      rotation: {x: -0.13573717, y: 0.000000013277822, z: -0.00000006403906, w: 0.9907449}
+      scale: {x: 0.9999994, y: 1.0000004, z: 0.99999976}
+    - name: hair_back_5.L
+      parentName: hair_physics
+      position: {x: -0.0639141, y: -0.15889794, z: -0.14364366}
+      rotation: {x: 0.9558447, y: 0.029327825, z: -0.22008723, w: 0.19251616}
+      scale: {x: 1.0000001, y: 1.0000005, z: 0.9999997}
+    - name: hair_back_5.L.001
+      parentName: hair_back_5.L
+      position: {x: -3.4924597e-10, y: 0.055791337, z: 9.313226e-10}
+      rotation: {x: -0.14311123, y: -0.00000022372483, z: -0.00000021266797, w: 0.98970664}
+      scale: {x: 1.0000005, y: 0.9999997, z: 0.9999997}
+    - name: hair_back
+      parentName: hair_physics
+      position: {x: 0.000000048313925, y: -0.16058928, z: -0.15640719}
+      rotation: {x: 0.9873371, y: -0.00000013524239, z: -0.000000097420404, w: 0.1586361}
+      scale: {x: 1.0000001, y: 0.99999976, z: 1.0000005}
+    - name: hair_back.001
+      parentName: hair_back
+      position: {x: -8.65974e-15, y: 0.054130144, z: 0.00000001117587}
+      rotation: {x: -0.14750388, y: -0.00000003247169, z: 0.000000016049805, w: 0.98906153}
+      scale: {x: 1, y: 0.9999995, z: 0.99999976}
+    - name: hair_back.R
+      parentName: hair_physics
+      position: {x: 0.11739668, y: -0.09851265, z: 0.021505786}
+      rotation: {x: 0.58165693, y: 0.015342914, z: 0.8122222, w: -0.04165394}
+      scale: {x: 1.0000137, y: 0.99999934, z: 1.0000007}
+    - name: hair_back.R.001
+      parentName: hair_back.R
+      position: {x: 0.0000000121071935, y: 0.07416229, z: -0.000000022817403}
+      rotation: {x: -0.029012272, y: -0.037786536, z: 0.019269394, w: 0.99867874}
+      scale: {x: 1, y: 0.99999994, z: 0.9999995}
+    - name: hair_back_1.R
+      parentName: hair_physics
+      position: {x: 0.16094363, y: -0.14615613, z: -0.016974991}
+      rotation: {x: 0.69491327, y: 0.06439413, z: 0.69434524, w: -0.17559531}
+      scale: {x: 0.9999997, y: 0.9999995, z: 0.99999994}
+    - name: hair_back_2.R
+      parentName: hair_physics
+      position: {x: 0.16664803, y: -0.12241736, z: -0.0469521}
+      rotation: {x: 0.74815434, y: 0.20362249, z: 0.5178458, w: -0.36143968}
+      scale: {x: 0.9999993, y: 0.9999998, z: 0.9999998}
+    - name: hair_back_3.R
+      parentName: hair_physics
+      position: {x: 0.13522097, y: -0.15659156, z: -0.05005469}
+      rotation: {x: 0.8456458, y: -0.06489483, z: 0.5065384, w: 0.15521204}
+      scale: {x: 1.0000005, y: 0.99999946, z: 1.0000001}
+    - name: hair_back_3.R.001
+      parentName: hair_back_3.R
+      position: {x: 0.0000000018626451, y: 0.04991673, z: 0.000000015832484}
+      rotation: {x: -0.15995443, y: -0.0000001639281, z: -0.00000020850707, w: 0.98712444}
+      scale: {x: 0.9999994, y: 0.99999994, z: 0.9999991}
+    - name: hair_back_4.R
+      parentName: hair_physics
+      position: {x: 0.115832865, y: -0.15314955, z: -0.10706559}
+      rotation: {x: 0.8956825, y: -0.081188895, z: 0.3925368, w: 0.1925516}
+      scale: {x: 0.9999996, y: 0.9999996, z: 0.9999996}
+    - name: hair_back_4.R.001
+      parentName: hair_back_4.R
+      position: {x: -0.000000004307367, y: 0.058822595, z: -0.00000004284084}
+      rotation: {x: -0.13573736, y: -0.000000103578785, z: -0.00000013418827, w: 0.9907449}
+      scale: {x: 0.99999994, y: 1.0000002, z: 0.99999994}
+    - name: hair_back_5.R
+      parentName: hair_physics
+      position: {x: 0.06391417, y: -0.1588979, z: -0.14364363}
+      rotation: {x: 0.9558445, y: -0.02932786, z: 0.22008781, w: 0.19251634}
+      scale: {x: 1, y: 1, z: 1.0000005}
+    - name: hair_back_5.R.001
+      parentName: hair_back_5.R
+      position: {x: 0.000000017345883, y: 0.055791344, z: -0.000000034458935}
+      rotation: {x: -0.1431113, y: 0.00000019243639, z: 0.00000007104617, w: 0.9897066}
+      scale: {x: 1.0000002, y: 0.9999995, z: 0.99999887}
+    - name: ahoge_physics
+      parentName: head
+      position: {x: 1.9081958e-16, y: 0.21868953, z: -6.2365046e-10}
+      rotation: {x: -8.835275e-16, y: -3.8820502e-11, z: -3.898504e-11, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ahoge_1
+      parentName: ahoge_physics
+      position: {x: -0.004658932, y: 0.03720069, z: 0.0024847514}
+      rotation: {x: 0.3986497, y: 0.7951229, z: 0.1482739, w: -0.43228787}
+      scale: {x: 0.9999993, y: 0.9999995, z: 0.9999993}
+    - name: ahoge_1.001
+      parentName: ahoge_1
+      position: {x: 4.656613e-10, y: 0.03889838, z: -0.00000010617077}
+      rotation: {x: 0.38117483, y: 0.019309634, z: -0.033266503, w: 0.9237025}
+      scale: {x: 1.0000002, y: 0.99999994, z: 0.9999998}
+    - name: ahoge_1.002
+      parentName: ahoge_1.001
+      position: {x: -0.000000015832484, y: 0.04161437, z: 0.000000058673322}
+      rotation: {x: 0.45757955, y: 0.023339996, z: -0.028657947, w: 0.88840026}
+      scale: {x: 1, y: 1.0000008, z: 1.0000001}
+    - name: ahoge_2
+      parentName: ahoge_physics
+      position: {x: -0.0021732624, y: 0.039881885, z: 0.0018293791}
+      rotation: {x: 0.020259228, y: -0.76374906, z: -0.07131688, w: 0.6412417}
+      scale: {x: 0.9999995, y: 1, z: 1}
+    - name: ahoge_2.001
+      parentName: ahoge_2
+      position: {x: -2.0463631e-10, y: 0.037181716, z: -0.000000027590431}
+      rotation: {x: 0.39415544, y: -0.015396319, z: 0.01234012, w: 0.91883194}
+      scale: {x: 0.99999887, y: 0.99999934, z: 0.99999976}
+    - name: ahoge_2.002
+      parentName: ahoge_2.001
+      position: {x: -0.000000010477379, y: 0.0256329, z: 0.000000021304004}
+      rotation: {x: 0.33278614, y: 0.011411372, z: 0.014041401, w: 0.9428288}
+      scale: {x: 1.0000001, y: 1.0000012, z: 1.0000012}
+    - name: ahoge_3
+      parentName: ahoge_physics
+      position: {x: 0.0009486821, y: 0.03480494, z: -0.00059533684}
+      rotation: {x: 0.4085872, y: -0.3484587, z: 0.16366875, w: 0.827554}
+      scale: {x: 1, y: 0.99999976, z: 0.99999976}
+    - name: ahoge_3.001
+      parentName: ahoge_3
+      position: {x: -0.000000009313226, y: 0.036786687, z: 0.000000020023435}
+      rotation: {x: 0.37447843, y: -0.02667745, z: 0.13473995, w: 0.91700566}
+      scale: {x: 0.99999976, y: 1, z: 1.0000001}
+    - name: ahoge_3.002
+      parentName: ahoge_3.001
+      position: {x: -0.0000000081490725, y: 0.05276058, z: 0.000000046915375}
+      rotation: {x: 0.2943716, y: -0.07881459, z: 0.09716508, w: 0.94746643}
+      scale: {x: 0.99999964, y: 0.9999996, z: 0.9999998}
+    - name: ahoge_3.003
+      parentName: ahoge_3.002
+      position: {x: 0.000000052154064, y: 0.04305451, z: 0.000000033527613}
+      rotation: {x: 0.00308715, y: -0.032422494, z: 0.050642557, w: 0.9981857}
+      scale: {x: 1.0000001, y: 1.0000006, z: 0.99999994}
+    - name: ears_physics
+      parentName: head
+      position: {x: 1.9081958e-16, y: 0.21868953, z: -6.2365046e-10}
+      rotation: {x: -8.835275e-16, y: -3.8820502e-11, z: -3.8985044e-11, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ear.L
+      parentName: ears_physics
+      position: {x: -0.10701136, y: 0.008459507, z: -0.024056293}
+      rotation: {x: -0.0014027103, y: -0.012208666, z: 0.38661236, w: 0.92216045}
+      scale: {x: 1, y: 0.9999997, z: 1.0000001}
+    - name: ear.L.001
+      parentName: ear.L
+      position: {x: -0.00000003684545, y: 0.043935906, z: -0.00000003934838}
+      rotation: {x: 0.1524091, y: 0.00015648478, z: 0.0010144215, w: 0.98831695}
+      scale: {x: 0.99999976, y: 0.9999995, z: 0.9999995}
+    - name: ear.R
+      parentName: ears_physics
+      position: {x: 0.10701138, y: 0.008459507, z: -0.02405624}
+      rotation: {x: -0.0014027288, y: 0.012208179, z: -0.3866122, w: 0.9221605}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: ear.R.001
+      parentName: ear.R
+      position: {x: -2.910383e-10, y: 0.043935962, z: -0.0000000081490725}
+      rotation: {x: 0.15240909, y: -0.00015624215, z: -0.0010145998, w: 0.98831695}
+      scale: {x: 1, y: 0.9999998, z: 1.0000001}
+    - name: shoulder.L
+      parentName: chest
+      position: {x: -0.023189973, y: 0.04618065, z: -0.00036643885}
+      rotation: {x: -0.5000001, y: 0.4999999, z: 0.4999999, w: 0.5000001}
+      scale: {x: 0.9999998, y: 0.99999994, z: 0.9999999}
+    - name: upper_arm.L
+      parentName: shoulder.L
+      position: {x: -0.0000002400894, y: 0.017142963, z: -0.000000027393451}
+      rotation: {x: -0.010583546, y: -0.70694333, z: -0.010586292, w: 0.7071118}
+      scale: {x: 0.9999997, y: 0.99999994, z: 0.9999998}
+    - name: forearm.L
+      parentName: upper_arm.L
+      position: {x: -0.000000073433284, y: 0.039396096, z: -0.0000000020154403}
+      rotation: {x: 0.015573165, y: 0.00000057186094, z: 0.000003876994, w: 0.99987876}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: hand.L
+      parentName: forearm.L
+      position: {x: -0.0000000048035957, y: 0.04498892, z: 7.566996e-10}
+      rotation: {x: -0.0005119805, y: -0.00011972396, z: -0.00000021828859, w: 0.9999999}
+      scale: {x: 0.99999964, y: 0.9999998, z: 0.99999946}
+    - name: f_index.01.L
+      parentName: hand.L
+      position: {x: 0.0073844558, y: 0.044981718, z: 0.020072723}
+      rotation: {x: -0.00006525076, y: -0.7071068, z: 0.00006543907, w: 0.7071067}
+      scale: {x: 0.99999964, y: 1.0000005, z: 0.9999996}
+    - name: f_index.02.L
+      parentName: f_index.01.L
+      position: {x: -0.0000000012354568, y: 0.019886356, z: -0.000000012839519}
+      rotation: {x: 0.000000043711395, y: -0.00000012259045, z: 0.000000015900524,
+        w: 1}
+      scale: {x: 0.99999976, y: 1.0000002, z: 0.9999998}
+    - name: f_index.03.L
+      parentName: f_index.02.L
+      position: {x: -1.2077406e-10, y: 0.019779963, z: -0.00000006062444}
+      rotation: {x: 0.047344584, y: -0.00000007379556, z: -0.00000001241336, w: 0.99887866}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    - name: f_middle.01.L
+      parentName: hand.L
+      position: {x: 0.0073844558, y: 0.044978045, z: 0.00020080461}
+      rotation: {x: -0.000065297834, y: -0.7071068, z: 0.00006548615, w: 0.7071067}
+      scale: {x: 0.99999964, y: 0.9999999, z: 0.9999997}
+    - name: f_middle.02.L
+      parentName: f_middle.01.L
+      position: {x: -4.2495962e-10, y: 0.019886374, z: -0.000000013023146}
+      rotation: {x: 0.00000004371139, y: -0.000000062985805, z: -0.000000044067914,
+        w: 1}
+      scale: {x: 0.9999998, y: 0.99999994, z: 0.99999994}
+    - name: f_middle.03.L
+      parentName: f_middle.02.L
+      position: {x: -0.0000000024490716, y: 0.019779997, z: 0.00000003178043}
+      rotation: {x: 0.047344588, y: -0.00000010928801, z: -0.000000010731096, w: 0.99887866}
+      scale: {x: 1.0000006, y: 1.0000002, z: 1}
+    - name: f_pinky.01.L
+      parentName: hand.L
+      position: {x: 0.0073844558, y: 0.044974383, z: -0.019451667}
+      rotation: {x: -0.00006525076, y: -0.7071068, z: 0.00006543907, w: 0.7071067}
+      scale: {x: 1, y: 1.0000005, z: 1.0000001}
+    - name: f_pinky.02.L
+      parentName: f_pinky.01.L
+      position: {x: -0.0000000017403171, y: 0.01988636, z: 0.000000017269103}
+      rotation: {x: 0.000000043711406, y: -0.000000062985805, z: 0.000000015900529,
+        w: 1}
+      scale: {x: 1, y: 1, z: 0.9999996}
+    - name: f_pinky.03.L
+      parentName: f_pinky.02.L
+      position: {x: 0.0000000040702157, y: 0.019779999, z: -0.00000005466094}
+      rotation: {x: 0.04734459, y: -0.00000010928802, z: -0.000000010731099, w: 0.99887866}
+      scale: {x: 1.0000004, y: 0.99999946, z: 0.9999999}
+    - name: thumb.01.L
+      parentName: hand.L
+      position: {x: 0.001092268, y: 0.024512742, z: 0.015595346}
+      rotation: {x: 0.29258084, y: -0.5983394, z: -0.3438569, w: 0.6619281}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1.0000001}
+    - name: thumb.02.L
+      parentName: thumb.01.L
+      position: {x: -0.0000000028145233, y: 0.023307495, z: 0.0000000137444545}
+      rotation: {x: 0.043132897, y: -0.0000018925303, z: 0.00000009188815, w: 0.99906933}
+      scale: {x: 1, y: 1.0000002, z: 1.0000004}
+    - name: thumb.03.L
+      parentName: thumb.02.L
+      position: {x: -0.000000014497971, y: 0.019682113, z: -0.000000030574697}
+      rotation: {x: 0.013438542, y: 4.50958e-12, z: 0.0000000040185784, w: 0.9999097}
+      scale: {x: 1, y: 1.0000004, z: 0.99999994}
+    - name: elbow.L
+      parentName: upper_arm.L
+      position: {x: -0.00000007343368, y: 0.03939606, z: -3.8562575e-10}
+      rotation: {x: 0.0149687845, y: -0.000000081078525, z: 0.0000035716287, w: 0.999888}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shoulder.R
+      parentName: chest
+      position: {x: 0.023189973, y: 0.04618065, z: -0.0003664278}
+      rotation: {x: -0.5000001, y: -0.49999988, z: -0.49999994, w: 0.50000006}
+      scale: {x: 0.9999997, y: 1, z: 0.9999998}
+    - name: upper_arm.R
+      parentName: shoulder.R
+      position: {x: 0.0000002400894, y: 0.017142965, z: 0.000000002408862}
+      rotation: {x: -0.010583747, y: 0.7069433, z: 0.0105862785, w: 0.70711184}
+      scale: {x: 0.9999994, y: 1, z: 0.99999994}
+    - name: forearm.R
+      parentName: upper_arm.R
+      position: {x: -0.000000014614727, y: 0.039396096, z: 0.0000000013096724}
+      rotation: {x: 0.0155731775, y: -0.00000047680658, z: -0.0000037244877, w: 0.99987876}
+      scale: {x: 1, y: 1.0000004, z: 0.9999998}
+    - name: hand.R
+      parentName: forearm.R
+      position: {x: -0.000000026430417, y: 0.04498892, z: 9.1677066e-10}
+      rotation: {x: -0.0005119805, y: 0.000119783566, z: 0.00000021831926, w: 0.9999999}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: f_index.01.R
+      parentName: hand.R
+      position: {x: -0.0073844553, y: 0.04498166, z: 0.020072721}
+      rotation: {x: -0.00006525076, y: 0.7071068, z: -0.00006543907, w: 0.7071067}
+      scale: {x: 0.99999946, y: 0.99999964, z: 0.9999995}
+    - name: f_index.02.R
+      parentName: f_index.01.R
+      position: {x: 9.993577e-10, y: 0.019886341, z: -0.0000000123787265}
+      rotation: {x: 0.000000043711317, y: -0.000000028412636, z: -0.000000015798667,
+        w: 1}
+      scale: {x: 0.9999996, y: 0.99999994, z: 1}
+    - name: f_index.03.R
+      parentName: f_index.02.R
+      position: {x: 7.9912743e-10, y: 0.01978001, z: 0.000000031009918}
+      rotation: {x: 0.0473446, y: 0.00000010239018, z: 0.000000011058038, w: 0.99887866}
+      scale: {x: 0.9999997, y: 1, z: 1.0000004}
+    - name: f_middle.01.R
+      parentName: hand.R
+      position: {x: -0.0073844553, y: 0.044977985, z: 0.0002008068}
+      rotation: {x: -0.00006525074, y: 0.7071067, z: -0.00006553321, w: 0.7071068}
+      scale: {x: 0.99999976, y: 0.99999994, z: 1}
+    - name: f_middle.02.R
+      parentName: f_middle.01.R
+      position: {x: 2.1045987e-10, y: 0.019886347, z: -0.00000003164057}
+      rotation: {x: -2.9038185e-11, y: 7.276003e-12, z: 9.458925e-11, w: 1}
+      scale: {x: 0.99999976, y: 0.9999996, z: 0.9999997}
+    - name: f_middle.03.R
+      parentName: f_middle.02.R
+      position: {x: 0.000000002661785, y: 0.019780012, z: -0.000000061398794}
+      rotation: {x: 0.047344606, y: 0.00000010172086, z: -0.000000048581803, w: 0.99887866}
+      scale: {x: 1.0000005, y: 1.0000002, z: 0.99999994}
+    - name: f_pinky.01.R
+      parentName: hand.R
+      position: {x: -0.0073844553, y: 0.044974353, z: -0.019451665}
+      rotation: {x: -0.00006525076, y: 0.7071068, z: -0.00006543907, w: 0.7071067}
+      scale: {x: 1, y: 0.9999995, z: 0.99999964}
+    - name: f_pinky.02.R
+      parentName: f_pinky.01.R
+      position: {x: 0.0000000037960914, y: 0.01988633, z: -0.000000016103073}
+      rotation: {x: 0.000000043711317, y: -0.000000028412634, z: -0.000000015805943,
+        w: 1}
+      scale: {x: 0.99999934, y: 0.9999994, z: 0.99999946}
+    - name: f_pinky.03.R
+      parentName: f_pinky.02.R
+      position: {x: 0.000000010112349, y: 0.01978, z: -0.0000000047627378}
+      rotation: {x: 0.047344606, y: 0.00000010172085, z: -0.00000004858181, w: 0.99887866}
+      scale: {x: 1, y: 0.9999998, z: 0.99999976}
+    - name: thumb.01.R
+      parentName: hand.R
+      position: {x: -0.0010922379, y: 0.024512712, z: 0.015595346}
+      rotation: {x: 0.29258162, y: 0.5983395, z: 0.34385595, w: 0.66192824}
+      scale: {x: 0.99999976, y: 1.0000006, z: 1.0000008}
+    - name: thumb.02.R
+      parentName: thumb.01.R
+      position: {x: 0.0000000036188195, y: 0.02330748, z: -0.000000016304227}
+      rotation: {x: 0.04313291, y: 0.0000018914898, z: -0.00000009523691, w: 0.99906933}
+      scale: {x: 1, y: 0.9999998, z: 1}
+    - name: thumb.03.R
+      parentName: thumb.02.R
+      position: {x: -0.000000030228104, y: 0.019682096, z: 0.000000029759047}
+      rotation: {x: 0.013438535, y: -4.9481456e-12, z: -0.0000000040185864, w: 0.9999097}
+      scale: {x: 0.99999976, y: 0.9999998, z: 0.9999993}
+    - name: elbow.R
+      parentName: upper_arm.R
+      position: {x: 0.000000015187652, y: 0.039396066, z: 0.0000000013023964}
+      rotation: {x: 0.0149687845, y: 0.00000008182092, z: -0.000003571612, w: 0.999888}
+      scale: {x: 1, y: 1, z: 1}
+    - name: thigh.L
+      parentName: hips
+      position: {x: -0.037211977, y: -0.000114335635, z: -0.0000028953684}
+      rotation: {x: 0.9999701, y: 0.00000003578521, z: -0.00000012726574, w: 0.0077404007}
+      scale: {x: 0.9999998, y: 1.0000004, z: 1.0000001}
+    - name: shin.L
+      parentName: thigh.L
+      position: {x: 5.1425575e-10, y: 0.050657757, z: -0.0000000032385525}
+      rotation: {x: 0.019178588, y: -0.00000008539838, z: 0.000000030239995, w: 0.99981606}
+      scale: {x: 0.9999997, y: 0.99999934, z: 0.9999997}
+    - name: foot.L
+      parentName: shin.L
+      position: {x: -0.000000008532838, y: 0.07131577, z: -0.0000000020678872}
+      rotation: {x: -0.44046566, y: -0.0000001709457, z: 0.00000019518859, w: 0.8977695}
+      scale: {x: 0.9999996, y: 0.9999997, z: 0.99999964}
+    - name: toe.L
+      parentName: foot.L
+      position: {x: 9.934951e-10, y: 0.054304704, z: -0.000000010657814}
+      rotation: {x: 0.00000007310521, y: 0.9425142, z: -0.33416617, w: -0.00000087359706}
+      scale: {x: 0.99999964, y: 0.9999993, z: 0.9999997}
+    - name: thigh.R
+      parentName: hips
+      position: {x: 0.037212, y: -0.000114335635, z: -0.0000028953684}
+      rotation: {x: 0.9999701, y: -0.000000035785227, z: 0.00000012726572, w: 0.0077401344}
+      scale: {x: 0.9999993, y: 1, z: 1.0000002}
+    - name: shin.R
+      parentName: thigh.R
+      position: {x: 0.0000000032110152, y: 0.05065776, z: -0.00000000149232}
+      rotation: {x: 0.01917841, y: 0.0000008829929, z: -0.000000044413756, w: 0.99981606}
+      scale: {x: 0.9999995, y: 1.0000002, z: 0.9999994}
+    - name: foot.R
+      parentName: shin.R
+      position: {x: -0.000000004778754, y: 0.07131572, z: -3.6439474e-10}
+      rotation: {x: -0.44046548, y: 0.00030940177, z: -0.00015259278, w: 0.8977695}
+      scale: {x: 0.9999997, y: 1.0000004, z: 0.9999998}
+    - name: toe.R
+      parentName: foot.R
+      position: {x: 0.0000000034533514, y: 0.054304663, z: 0.000000012709279}
+      rotation: {x: 0.00011537141, y: 0.9425141, z: -0.33416617, w: 0.0003262811}
+      scale: {x: 0.99999964, y: 0.99999946, z: 0.9999995}
+    - name: tail
+      parentName: hips
+      position: {x: 0.000000010322764, y: 0.026287723, z: -0.039779734}
+      rotation: {x: -0.7071065, y: 0.000018547456, z: -0.000018541765, w: 0.7071071}
+      scale: {x: 0.9999998, y: 0.99999964, z: 0.9999996}
+    - name: tail.001
+      parentName: tail
+      position: {x: 1.2961854e-14, y: 0.020417975, z: -0.000000020209276}
+      rotation: {x: -0.00000034568825, y: 5.4578317e-12, z: -9.3068764e-10, w: 1}
+      scale: {x: 1.0000004, y: 0.9999999, z: 1}
+    - name: tail.002
+      parentName: tail.001
+      position: {x: -1.1979862e-12, y: 0.026428264, z: -0.0000000439869}
+      rotation: {x: -0.00000028070286, y: 1.819697e-12, z: -2.8077294e-11, w: 1}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000005}
+    - name: tail.003
+      parentName: tail.002
+      position: {x: -1.212086e-12, y: 0.0265426, z: -0.000000017723805}
+      rotation: {x: 0.00000028070286, y: 2.727455e-12, z: 2.1739638e-11, w: 1}
+      scale: {x: 0.99999976, y: 1.0000002, z: 0.9999999}
+    - name: tail.004
+      parentName: tail.003
+      position: {x: -2.8804736e-13, y: 0.026482377, z: 0.000000015999477}
+      rotation: {x: -6.5100935e-16, y: -1.6195613e-16, z: 9.123489e-13, w: 1}
+      scale: {x: 0.99999964, y: 0.9999995, z: 0.99999976}
+    - name: tail.005
+      parentName: tail.004
+      position: {x: 8.899548e-13, y: 0.026474614, z: 0.0000000012889232}
+      rotation: {x: 3.672131e-15, y: -1.8191507e-12, z: 1.1685863e-12, w: 1}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000001}
+    - name: tail.006
+      parentName: tail.005
+      position: {x: -3.9268588e-13, y: 0.026464585, z: -0.000000013421705}
+      rotation: {x: -1.570135e-15, y: -9.096569e-13, z: 6.323798e-12, w: 1}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.99999976}
+    - name: tail.007
+      parentName: tail.006
+      position: {x: -1.313949e-12, y: 0.026410643, z: -0.000000013231558}
+      rotation: {x: 5.7749356e-16, y: -2.728648e-12, z: 9.100581e-12, w: 1}
+      scale: {x: 0.99999946, y: 0.9999997, z: 0.9999998}
+    - name: tail.008
+      parentName: tail.007
+      position: {x: -6.1295413e-13, y: 0.02633341, z: 0.000000016760355}
+      rotation: {x: -5.88038e-15, y: -1.6331472e-16, z: 1.2410949e-10, w: 1}
+      scale: {x: 0.9999998, y: 0.9999999, z: 1.0000001}
+    - name: tail.009
+      parentName: tail.008
+      position: {x: -9.700019e-13, y: 0.02532323, z: 0.000000002041514}
+      rotation: {x: 1.679341e-13, y: 1.8188318e-12, z: -0.0000000032353458, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: skirt_physics
+      parentName: hips
+      position: {x: 5.2718743e-16, y: 9.739061e-10, z: -8.092105e-10}
+      rotation: {x: -3.5527137e-15, y: -8.4703285e-22, z: 8.077936e-28, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skirt_chain
+      parentName: skirt_physics
+      position: {x: -0.0000035906255, y: 0.012657119, z: 0.041778293}
+      rotation: {x: 0.004200634, y: 0.08574117, z: 0.996308, w: -0.00106328}
+      scale: {x: 0.99999964, y: 0.9999996, z: 1.0000064}
+    - name: skirt_chain.008
+      parentName: skirt_chain
+      position: {x: 6.6302164e-10, y: 0.026760463, z: -0.000000005317929}
+      rotation: {x: 0.06841967, y: -0.00000004670146, z: -0.010937555, w: 0.9975967}
+      scale: {x: 1.0000007, y: 1.0000002, z: 0.9999992}
+    - name: skirt_chain.001
+      parentName: skirt_physics
+      position: {x: -0.038861997, y: 0.014055027, z: 0.032034896}
+      rotation: {x: -0.3341424, y: 0.112898745, z: 0.9296756, w: 0.10632993}
+      scale: {x: 0.9999973, y: 1, z: 0.9999991}
+    - name: skirt_chain.009
+      parentName: skirt_chain.001
+      position: {x: 0.0000000037252903, y: 0.026019337, z: -0.0000000037252903}
+      rotation: {x: 0.04830461, y: 0.000000039652864, z: 0.007701512, w: 0.99880296}
+      scale: {x: 1.0000004, y: 1, z: 1.0000002}
+    - name: skirt_chain.002
+      parentName: skirt_physics
+      position: {x: -0.059565652, y: 0.015925737, z: -0.000053747164}
+      rotation: {x: 0.70549136, y: -0.09307918, z: -0.6991995, w: -0.068834856}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.000001}
+    - name: skirt_chain.010
+      parentName: skirt_chain.002
+      position: {x: -2.3283064e-10, y: 0.026859691, z: 0.000000011059456}
+      rotation: {x: 0.07126161, y: -0.00000027785092, z: -0.009260841, w: 0.9974147}
+      scale: {x: 0.9999999, y: 0.9999996, z: 0.9999998}
+    - name: skirt_chain.003
+      parentName: skirt_physics
+      position: {x: -0.039180145, y: 0.013812501, z: -0.031399466}
+      rotation: {x: 0.95909256, y: -0.10687646, z: -0.25186366, w: -0.072688214}
+      scale: {x: 0.9999994, y: 1.0000006, z: 0.9999999}
+    - name: skirt_chain.011
+      parentName: skirt_chain.003
+      position: {x: 0.000000009313226, y: 0.026166758, z: -0.0000000018626451}
+      rotation: {x: 0.06468349, y: 0.00000045089502, z: -0.010481572, w: 0.99785084}
+      scale: {x: 0.9999994, y: 0.99999976, z: 0.99999994}
+    - name: skirt_chain.004
+      parentName: skirt_physics
+      position: {x: -0.0000034676702, y: 0.012462784, z: -0.040426634}
+      rotation: {x: 0.9950208, y: 0.0060766754, z: -0.008490927, w: -0.09911925}
+      scale: {x: 1.0000004, y: 0.9999997, z: 1.0000062}
+    - name: skirt_chain.012
+      parentName: skirt_chain.004
+      position: {x: 3.4924597e-10, y: 0.02662893, z: -7.003109e-11}
+      rotation: {x: 0.06536492, y: 0.00000008967074, z: -0.011187635, w: 0.99779874}
+      scale: {x: 0.99999946, y: 0.9999994, z: 0.9999994}
+    - name: skirt_chain.005
+      parentName: skirt_physics
+      position: {x: 0.039180778, y: 0.013812546, z: -0.031399164}
+      rotation: {x: 0.9529881, y: 0.086356156, z: 0.27129218, w: -0.10371528}
+      scale: {x: 0.99999857, y: 0.9999997, z: 0.9999994}
+    - name: skirt_chain.013
+      parentName: skirt_chain.005
+      position: {x: 0.0000000055879354, y: 0.025911644, z: -0.000000009313226}
+      rotation: {x: 0.05213669, y: 0.00000025181183, z: 0.012763375, w: 0.9985584}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.0000001}
+    - name: skirt_chain.006
+      parentName: skirt_physics
+      position: {x: 0.059565652, y: 0.015925767, z: -0.00005356835}
+      rotation: {x: 0.69643646, y: 0.11525095, z: 0.69920284, w: -0.11317644}
+      scale: {x: 1.0000008, y: 1, z: 0.9999996}
+    - name: skirt_chain.014
+      parentName: skirt_chain.006
+      position: {x: -4.656613e-10, y: 0.026579598, z: 0.0000000032996468}
+      rotation: {x: 0.04811045, y: 0.00000015790283, z: 0.0068541397, w: 0.9988185}
+      scale: {x: 0.99999887, y: 0.9999989, z: 0.9999997}
+    - name: skirt_chain.007
+      parentName: skirt_physics
+      position: {x: 0.038861956, y: 0.014054997, z: 0.032034934}
+      rotation: {x: 0.326785, y: 0.11387412, z: 0.9350223, w: -0.07731482}
+      scale: {x: 0.99999833, y: 0.9999995, z: 0.9999991}
+    - name: skirt_chain.015
+      parentName: skirt_chain.007
+      position: {x: 0.000000007450581, y: 0.02603631, z: 0.0000000018626451}
+      rotation: {x: 0.054952726, y: 0.0000004206656, z: -0.0012427822, w: 0.9984882}
+      scale: {x: 0.9999998, y: 1.0000002, z: 0.99999994}
+    - name: mouth.001
+      parentName: UnityArmature
+      position: {x: 2.3042639e-11, y: -0.08947727, z: 0.36920375}
+      rotation: {x: 0.7071068, y: 1.2757028e-15, z: 1.2757026e-15, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tongue.001
+      parentName: mouth.001
+      position: {x: -1.9614107e-19, y: 0, z: 0}
+      rotation: {x: -0.0000000754979, y: 4.622913e-24, z: 1, w: 6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.5
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
